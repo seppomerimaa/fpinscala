@@ -5,7 +5,7 @@ This repository contains exercises, hints, and answers for the book
 with the book itself, it's the closest you'll get to having your own
 private functional programming tutor without actually having one.
 
-Here's how to use this repository:
+Here's how to use this repository::
 
 Each chapter in the book develops a fully working library of functions
 and data types, built up through a series of exercises and example code
